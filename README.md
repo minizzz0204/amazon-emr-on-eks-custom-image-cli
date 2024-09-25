@@ -141,11 +141,15 @@ Supported Versions in Repo:
 
 |          Releases          | Amazon EMR on EKS release versions | Container image tags |
 |:--------------------------:|:----------------------------------:|:--------------------:|
-| Amazon EMR 6.14.0 releases  | emr-6.14.0-latest                   | emr-6.14.0:latest     |
-| Amazon EMR 6.13.0 releases  | emr-6.13.0-latest                   | emr-6.13.0:latest     |
-| Amazon EMR 6.12.0 releases  | emr-6.12.0-latest                   | emr-6.12.0:latest     |
-| Amazon EMR 6.11.0 releases  | emr-6.11.0-latest                   | emr-6.11.0:latest     |
-| Amazon EMR 6.10.0 releases  | emr-6.10.0-latest                   | emr-6.10.0:latest     |
+| Amazon EMR 7.2.0 releases  | emr-7.2.0-latest                   | emr-7.2.0:latest     |
+| Amazon EMR 7.1.0 releases  | emr-7.1.0-latest                   | emr-7.1.0:latest     |
+| Amazon EMR 7.0.0 releases  | emr-7.0.0-latest                   | emr-7.0.0:latest     |
+| Amazon EMR 6.15.0 releases | emr-6.15.0-latest                  | emr-6.15.0:latest    |
+| Amazon EMR 6.14.0 releases | emr-6.14.0-latest                  | emr-6.14.0:latest    |
+| Amazon EMR 6.13.0 releases | emr-6.13.0-latest                  | emr-6.13.0:latest    |
+| Amazon EMR 6.12.0 releases | emr-6.12.0-latest                  | emr-6.12.0:latest    |
+| Amazon EMR 6.11.0 releases | emr-6.11.0-latest                  | emr-6.11.0:latest    |
+| Amazon EMR 6.10.0 releases | emr-6.10.0-latest                  | emr-6.10.0:latest    |
 | Amazon EMR 6.9.0 releases  | emr-6.9.0-latest                   | emr-6.9.0:latest     |
 | Amazon EMR 6.8.0 releases  | emr-6.8.0-latest                   | emr-6.8.0:latest     |
 | Amazon EMR 6.7.0 releases  | emr-6.7.0-latest                   | emr-6.7.0:latest     |
@@ -176,11 +180,15 @@ Supported Versions in [Releases](https://github.com/awslabs/amazon-emr-on-eks-cu
 
 |          Releases          | Amazon EMR on EKS release versions | Container image tags |
 |:--------------------------:|:----------------------------------:|:--------------------:|
-| Amazon EMR 6.14.0 releases  | emr-6.14.0-latest                   | emr-6.14.0:latest     |
-| Amazon EMR 6.13.0 releases  | emr-6.13.0-latest                   | emr-6.13.0:latest     |
-| Amazon EMR 6.12.0 releases  | emr-6.12.0-latest                   | emr-6.12.0:latest     |
-| Amazon EMR 6.11.0 releases  | emr-6.11.0-latest                   | emr-6.11.0:latest     |
-| Amazon EMR 6.10.0 releases  | emr-6.10.0-latest                   | emr-6.10.0:latest     |
+| Amazon EMR 7.2.0 releases  | emr-7.2.0-latest                   | emr-7.2.0:latest     |
+| Amazon EMR 7.1.0 releases  | emr-7.1.0-latest                   | emr-7.1.0:latest     |
+| Amazon EMR 7.0.0 releases  | emr-7.0.0-latest                   | emr-7.0.0:latest     |
+| Amazon EMR 6.15.0 releases | emr-6.15.0-latest                  | emr-6.15.0:latest    |
+| Amazon EMR 6.14.0 releases | emr-6.14.0-latest                  | emr-6.14.0:latest    |
+| Amazon EMR 6.13.0 releases | emr-6.13.0-latest                  | emr-6.13.0:latest    |
+| Amazon EMR 6.12.0 releases | emr-6.12.0-latest                  | emr-6.12.0:latest    |
+| Amazon EMR 6.11.0 releases | emr-6.11.0-latest                  | emr-6.11.0:latest    |
+| Amazon EMR 6.10.0 releases | emr-6.10.0-latest                  | emr-6.10.0:latest    |
 | Amazon EMR 6.9.0 releases  | emr-6.9.0-latest                   | emr-6.9.0:latest     |
 | Amazon EMR 6.8.0 releases  | emr-6.8.0-latest                   | emr-6.8.0:latest     |
 | Amazon EMR 6.7.0 releases  | emr-6.7.0-latest                   | emr-6.7.0:latest     |
